@@ -1,0 +1,3 @@
+G:\Adil Work\projects\Mobile Apps\DotFuelG\DotFuel\DotFuel\obj\Debug\DotFuel.njsprojAssemblyReference.cache
+G:\Adil Work\projects\Mobile Apps\DotFuelG\DotFuel\DotFuel\obj\Debug\DotFuel.njsproj.CoreCompileInputs.cache
+G:\Adil Work\projects\Mobile Apps\DotFuelG\DotFuel\DotFuel\bin\Microsoft.NodejsTools.WebRole.dll
